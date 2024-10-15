@@ -6,3 +6,4 @@ Text-to-Speech Support: After translation, users can listen to the translated te
 Language Selection: Choose from a variety of source and target languages.
 
 This project demonstrates the use of web technologies to create an interactive, user-friendly translation tool with speech functionality.
+
